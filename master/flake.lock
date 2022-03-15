@@ -44,11 +44,11 @@
         "redisparser-master": "redisparser-master"
       },
       "locked": {
-        "lastModified": 1647063254,
-        "narHash": "sha256-BStAbewqmkl6zToEvwrRh357/J7pPOPevHr7jlDhZ7w=",
+        "lastModified": 1647113095,
+        "narHash": "sha256-CXjT8BrUwFeaUaJmeucSbn87K70jaZDPp1urmF0227Y=",
         "owner": "nim-nix-pkgs",
         "repo": "redisparser",
-        "rev": "1a4b4062576bd43f18ce0654276253f932c753c8",
+        "rev": "c87f7170ad35b4f1660c8c396919f095f4051bbb",
         "type": "github"
       },
       "original": {
@@ -71,13 +71,20 @@
         "src-redisparser-0_1_1": "src-redisparser-0_1_1"
       },
       "locked": {
-        "narHash": "sha256-oLHJJpmfG3QTzeqgeTIanP03EKJ8Mmkw6w8lgsHvsTA=",
-        "path": "./0_1_1",
-        "type": "path"
+        "dir": "0_1_1",
+        "lastModified": 1647113095,
+        "narHash": "sha256-CXjT8BrUwFeaUaJmeucSbn87K70jaZDPp1urmF0227Y=",
+        "owner": "nim-nix-pkgs",
+        "repo": "redisparser",
+        "rev": "c87f7170ad35b4f1660c8c396919f095f4051bbb",
+        "type": "github"
       },
       "original": {
-        "path": "./0_1_1",
-        "type": "path"
+        "dir": "0_1_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "redisparser",
+        "type": "github"
       }
     },
     "redisparser-master": {
@@ -93,13 +100,20 @@
         "src-redisparser-master": "src-redisparser-master"
       },
       "locked": {
-        "narHash": "sha256-i/iMLk0LEqC4P8Est5a3tgMjeqaXpl01f4dZallDfiE=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647113095,
+        "narHash": "sha256-CXjT8BrUwFeaUaJmeucSbn87K70jaZDPp1urmF0227Y=",
+        "owner": "nim-nix-pkgs",
+        "repo": "redisparser",
+        "rev": "c87f7170ad35b4f1660c8c396919f095f4051bbb",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "redisparser",
+        "type": "github"
       }
     },
     "root": {
