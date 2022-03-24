@@ -40,76 +40,19 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "redisparser-0_1_1": "redisparser-0_1_1",
-        "redisparser-master": "redisparser-master"
-      },
-      "locked": {
-        "lastModified": 1648108035,
-        "narHash": "sha256-ypXN+f3IvzMwR74xBE1J2uC85z599lkr33AJuDw9cfg=",
-        "owner": "nim-nix-pkgs",
-        "repo": "redisparser",
-        "rev": "6ffd61c1e2f5dbc316bb813637345d7da4d6e687",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "redisparser",
-        "type": "github"
-      }
-    },
-    "redisparser-0_1_1": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "redisparser",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "redisparser",
-          "nixpkgs"
-        ],
         "src-redisparser-0_1_1": "src-redisparser-0_1_1"
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1648108035,
-        "narHash": "sha256-ypXN+f3IvzMwR74xBE1J2uC85z599lkr33AJuDw9cfg=",
+        "lastModified": 1648163530,
+        "narHash": "sha256-RK3OTjPjpeCEymi/3i6E9rjufkHNkucNQ4T/ExCA3aI=",
         "owner": "nim-nix-pkgs",
         "repo": "redisparser",
-        "rev": "6ffd61c1e2f5dbc316bb813637345d7da4d6e687",
+        "rev": "0adcdb8e9e46ccaaa274dc221f71a3899a1a868a",
         "type": "github"
       },
       "original": {
         "dir": "0_1_1",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "redisparser",
-        "type": "github"
-      }
-    },
-    "redisparser-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "redisparser",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "redisparser",
-          "nixpkgs"
-        ],
-        "src-redisparser-master": "src-redisparser-master"
-      },
-      "locked": {
-        "dir": "master",
-        "lastModified": 1648108035,
-        "narHash": "sha256-ypXN+f3IvzMwR74xBE1J2uC85z599lkr33AJuDw9cfg=",
-        "owner": "nim-nix-pkgs",
-        "repo": "redisparser",
-        "rev": "6ffd61c1e2f5dbc316bb813637345d7da4d6e687",
-        "type": "github"
-      },
-      "original": {
-        "dir": "master",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "redisparser",
@@ -154,23 +97,6 @@
       "original": {
         "owner": "xmonader",
         "ref": "refs/tags/0.1.1",
-        "repo": "nim-redisparser",
-        "type": "github"
-      }
-    },
-    "src-redisparser-master": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1633718331,
-        "narHash": "sha256-vzFF7/jamaPQRtt4T9EzimUR1q1jFqUkanD0IO8Ai5g=",
-        "owner": "xmonader",
-        "repo": "nim-redisparser",
-        "rev": "4a374d569e584414cedf8302ee3cbed9d8dc90b8",
-        "type": "github"
-      },
-      "original": {
-        "owner": "xmonader",
-        "ref": "refs/heads/master",
         "repo": "nim-redisparser",
         "type": "github"
       }
